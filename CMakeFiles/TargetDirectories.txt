@@ -1,3 +1,0 @@
-/Users/sina/github/mxnet-wddl/CMakeFiles/rebuild_cache.dir
-/Users/sina/github/mxnet-wddl/CMakeFiles/edit_cache.dir
-/Users/sina/github/mxnet-wddl/CMakeFiles/mxnet_wddl.dir
